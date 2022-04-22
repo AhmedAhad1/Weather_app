@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.weather-elements,
+.day {
+  padding: 2rem 3rem;
+  border-radius: 0.4rem;
+  background: rgba(24, 24, 24, 0.6);
+  border: 1px solid #fff;
+}
+
+.future-forecast-section {
+  padding: 2rem 3rem;
+  background: rgba(24, 24, 24, 0.6);
+}
+
+.cust-gap {
+  gap: 10rem;
+}
+.forecast-day {
+  padding: 1rem 2rem;
+  background-color: rgba(134, 108, 108, 0.868);
+  border-radius: 2rem;
+}
